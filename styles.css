@@ -519,6 +519,10 @@ details > summary::marker {
   display: none;
 }
 
+summary::-webkit-details-marker {
+  display:none;
+}
+
 .faq__question {
   display: -webkit-box;
   display: -ms-flexbox;
