@@ -1192,6 +1192,10 @@ details > summary::marker {
     margin-top: -4.5rem;
   }
 
+  .hero__text .primary-description {
+    max-width: 56rem;
+  }
+
   .features {
     padding: 0;
     margin: 4rem 0 0;
@@ -1328,6 +1332,10 @@ details > summary::marker {
 
   .downloads__cards-wrapper {
     max-width: 110rem;
+  }
+
+  .downloads__cards-item {
+    min-height: 37rem;
   }
 
   .downloads__cards-item:nth-child(1) {
