@@ -1212,8 +1212,7 @@ details > summary::marker {
   }
 
   .features-secondary .primary-description {
-    margin: 0 auto 3rem auto;
-    max-width: 44rem;
+    max-width: 54rem;
   }
 
   .hero__image-container {
@@ -1272,8 +1271,8 @@ details > summary::marker {
 
   .features-secondary-text {
     -webkit-box-flex: 0;
-    -ms-flex: 0 1 60%;
-    flex: 0 1 60%;
+    -ms-flex: 0 1 55%;
+    flex: 0 1 55%;
     text-align: left;
     padding-top: 8rem;
     padding-left: 8rem;
@@ -1319,6 +1318,10 @@ details > summary::marker {
     margin-bottom: 1rem;
   }
 
+  .downloads-text .secondary-title {
+    margin-bottom: 2rem;
+  }
+
   .downloads-text .primary-description {
     margin-bottom: 2rem;
   }
@@ -1345,6 +1348,10 @@ details > summary::marker {
     -webkit-transform: translateY(8rem);
     -ms-transform: translateY(8rem);
     transform: translateY(8rem);
+  }
+
+  .faqs-text .secondary-title {
+    margin-bottom: 2rem;
   }
 
   .cta-catchword {
